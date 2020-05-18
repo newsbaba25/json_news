@@ -1,5 +1,21 @@
-
-Json file :"
-For NewsBaba25
-"
-Flutter App
+[{
+  "date":" ",
+  "title": " ",
+  "description": " " ,
+  "img_src": " "
+},
+ 
+ {
+  "date":" ",
+  "title": " ",
+  "description": " " ,
+  "img_src": " "
+},
+ 
+ {
+  "date":" ",
+  "title": " ",
+  "description": " " ,
+  "img_src": " "  
+  
+}]
