@@ -1,21 +1,15 @@
 {
-"nepal": [
+"corona": [
 {
 "total": "",
 "recovered": "",
 "death": "" ,
+"totalw": "",
+"recoveredw": "",
+"deathw": "" 
 }
 
   
 ]
  
-"world": [
-{
-"total": "",
-"recovered": "",
-"death": "" ,
-}
-
-  
-]
 }
